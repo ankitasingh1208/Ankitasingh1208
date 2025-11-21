@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, I'm Ankita singh [Graduate Engineer Trainee]</h2>
+<h2 align="center">Hi there 👋, I'm Ankita singh [Software Engineer]</h2>
 
 ## ✨ About Me :
 I love turning ideas into reality on the web. I bring a combination of technical expertise, organization, and clear communication to my work. With a focus on precision and efficiency, I build intuitive and user-friendly websites. I thrive on designing interactive interfaces and ensuring that every project is both visually stunning and functionally robust across all devices.
@@ -7,7 +7,7 @@ I love turning ideas into reality on the web. I bring a combination of technical
 
 <img align="right" alt="coding & coffee" width="320" height="200" src="https://cdn.dribbble.com/userupload/9885161/file/original-ea59665ee88d1c9fc1dddca426590a9d.gif">
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Artificial Intelligence**
   
 -  💬 Ask me about **HTML, CSS, Javascript, React JS**
 
