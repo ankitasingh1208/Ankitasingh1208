@@ -39,8 +39,6 @@ I love turning ideas into reality on the web. I bring a combination of technical
 # 📊 GitHub Stats:
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin:auto">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitasingh1208&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ankitasingh1208" />
-    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=ankitasingh1208&show_icons=true&locale=en" alt="ankitasingh1208" />
     <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitasingh1208&" alt="ankitasingh1208" />
   
 </div>
